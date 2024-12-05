@@ -133,8 +133,9 @@ r2_score(y_test,car_price_predictions)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://github.com/user-attachments/assets/349a7823-d10a-4fd5-bb3c-df1b815bdba4)
 
+![image](https://github.com/user-attachments/assets/f913e3fc-5023-4e5b-afd1-3747dd5df442)
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
